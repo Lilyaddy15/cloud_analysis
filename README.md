@@ -18,23 +18,23 @@ It:
 ## 🛰️ Example Output
 
 ### 🌎 Original GeoColor Image + Stats
-![Original Image](images/geocolor_original.png)
+![Original Image](results/geocolor_original.png)
 
 ### ☁️ Cloud Classification
 - Red → Thick clouds  
 - Yellow → Mid-level clouds  
 - Magenta → Cirrus clouds  
 
-![Cloud Classification](images/cloud_combined.png)
+![Cloud Classification](results/cloud_combined.png)
 
 ### 🌩️ Storm Detection
-![Storm Detection](images/storm_overlay.png)
+![Storm Detection](results/storm_overlay.png)
 
 ### 🔥 Cloud Intensity Heatmap
-![Heatmap](images/cloud_heatmap.png)
+![Heatmap](results/cloud_heatmap.png)
 
 ### 📊 Final Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](results/dashboard.png)
 
 ---
 
